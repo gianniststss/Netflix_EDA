@@ -7,9 +7,9 @@ The project includes Jupyter notebooks that explore the data and visualize the r
 ## Contents
 The Jupyter Notebook contains the following sections:
 
-1. Data Preparation: This section includes data cleaning and data wrangling steps to prepare the dataset for analysis.
-2. Exploratory Data Analysis: This section includes visualizations and analyses of the data to explore trends and patterns within the dataset.
-3. Conclusion: This section includes a summary of the insights gained from the analysis.
+1. **Data Preparation:** This section includes data cleaning and data wrangling steps to prepare the dataset for analysis.
+2. **Exploratory Data Analysis:** This section includes visualizations and analyses of the data to explore trends and patterns within the dataset.
+3. **Conclusion:** This section includes a summary of the insights gained from the analysis.
 ## Libraries Used
 The following Python libraries were used in this analysis:
 
