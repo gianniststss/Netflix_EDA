@@ -1,29 +1,23 @@
-# Netflix EDA Project
-This project is an exploratory data analysis of the Netflix dataset from Kaggle. The goal of the project is to analyze the data and identify trends and patterns that can help Netflix improve its services.
-## Data
-The dataset contains information on TV shows and movies available on Netflix as of 2019. The data includes information on titles, directors, cast, rating, release year, duration, and more.
+# Netflix Dataset EDA
+This repository contains an exploratory data analysis (EDA) of the Netflix dataset. The purpose of this analysis is to gain insights into the data and to explore trends and patterns that can be found within it.
+## About the Dataset
+The Netflix dataset contains information about movies and TV shows available on the streaming platform. The dataset includes information about the title, director, cast, release year, rating, and more. The data used in this analysis is from Kaggle and can be found at this link. https://www.kaggle.com/shivamb/netflix-shows
 ## Analysis
 The project includes Jupyter notebooks that explore the data and visualize the results. The notebooks cover the following topics:
-## Overview of the dataset
-Analysis of the rating distribution
-Analysis of the release year distribution
-Analysis of the duration distribution
-Analysis of the cast and crew
-## Requirements
-To run the notebooks, you need to install the following packages:<br>
-## Environment
-The project's environment is captured in the environment.yml file. This file specifies the Python version and the necessary packages to run the notebooks. To create the environment, run the following command:<br>
-```conda env create -f environment.yml```
+## Contents
+The Jupyter Notebook contains the following sections:
 
-pandas<br>
-numpy<br>
-matplotlib<br>
-seaborn<br>
+1. Data Preparation: This section includes data cleaning and data wrangling steps to prepare the dataset for analysis.
+2. Exploratory Data Analysis: This section includes visualizations and analyses of the data to explore trends and patterns within the dataset.
+3. Conclusion: This section includes a summary of the insights gained from the analysis.
+## Libraries Used
+The following Python libraries were used in this analysis:
 
-**You can install these packages by running the following command:**<br>
-```pip install -r requirements.txt```
-
-**License**<br>
-This project is licensed under the MIT License.
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+## Acknowledgements
+We would like to thank Netflix for providing the data used in this analysis. Special thanks to Kaggle user Shivam Bansal for collecting and sharing the data. We would also like to acknowledge the contributions of our colleagues Ioannis Grigoriadis and Anastasia Tzogani, who worked with us on this EDA project.
 ## Conclusion
-In conclusion, this EDA project provides valuable insights into the Netflix dataset. The analysis shows that the majority of content on Netflix is TV shows, and the number of titles available has been increasing every year. The project also reveals the most popular genres and the most common cast members.
+This repository contains an exploratory data analysis of the Netflix dataset. The analysis includes data cleaning, data wrangling, and data visualization steps. The insights gained from this analysis provide a deeper understanding of the data and can be used to inform further analysis or business decisions related to the streaming platform.
