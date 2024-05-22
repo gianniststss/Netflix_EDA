@@ -1,4 +1,5 @@
 # Netflix Dataset EDA
+[https://datacurious.gr/Netflix_EDA.html]
 This repository contains an exploratory data analysis (EDA) of the Netflix dataset. The purpose of this analysis is to gain insights into the data and to explore trends and patterns that can be found within it.
 ## About the Dataset
 The Netflix dataset contains information about movies and TV shows available on the streaming platform. The dataset includes information about the title, director, cast, release year, rating, and more. The data used in this analysis is from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
